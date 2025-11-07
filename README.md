@@ -3,14 +3,14 @@
 
 ---
 
-<h2 align="center">Current Projects</h2>
+<h2 align="center">Projects</h2>
 
 <h3 align="left">🗂️ Full-Stack Task Tracker App</h3>
 <ul>
   <li><b>Tech:</b> React, Python, Flask, SQLite</li>
   <li>Developed a full-stack task management web app with CRUD functionality</li>
   <li>Frontend built with React for an interactive UI and modal-based task editing</li>
-  <li>Backend Power by Flask REST API handling task creation, updates, and deletions</li>
+  <li>Backend powered by Flask REST API handling task creation, updates, and deletions</li>
 </ul>
 <p><a href="https://github.com/josh-keilder/task-tracker" target="_blank">🔗 View Repository</a></p>
 
