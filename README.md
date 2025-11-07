@@ -5,12 +5,15 @@
 
 <h2 align="center">Current Projects</h2>
 
-<h3 align="left">🗂️ Task Tracker App (In Progress)</h3>
+<h3 align="left">🗂️ Full-Stack Task Tracker App</h3>
 <ul>
-  <li><b>Tech:</b> Python, Flask, Pytest</li>
-  <li>Developing a Flask-based task management app with CRUD operations</li>
-  <li>Implementing automated testing with Pytest to ensure reliability</li>
+  <li><b>Tech:</b> React, Python, Flask, SQLite</li>
+  <li>Developed a full-stack task management web app with CRUD functionality</li>
+  <li>Frontend built with React for an interactive UI and modal-based task editing</li>
+  <li>Backend Power by Flask REST API handling task creation, updates, and deletions</li>
+  <li>Implements clean API communication using JSON</li>
 </ul>
+<p><a href="https://github.com/josh-keilder/task-tracker" target="_blank">🔗 View Repository</a></p>
 
 <h3 align="left">🎮 Dungeon Sprint (In Progress)</h3>
 <ul>
