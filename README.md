@@ -22,6 +22,14 @@
 </ul>
 <p><a href="https://github.com/josh-keilder/dungeon-sprint" target="_blank">🔗 View Repository</a></p>
 
+<h3 align="left">Song Downloader</h3>
+<ul>
+  <li><b>Tech:</b> Python, Tkinter, PytubeFix, Dropbox</li>
+  <li>A simple Python GUI application to download audio from YouTube videos, convert it to MP3, and optionally upload it to a Dropbox folder.</li>
+</ul>
+<p><a href="https://github.com/josh-keilder/song-downloader" target="_blank">🔗 View Repository</a></p>
+
+
 ---
 
 <h3 align="left">Languages and Tools</h3>
