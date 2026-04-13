@@ -33,7 +33,7 @@
 <ul>
   <li>A simple python script to fix the audio sample rate for local files song playback.</li>
 </ul>
-<p><a href="https://github.com/josh-keilder/song-downloader](https://github.com/josh-keilder/spotify-local-files-audio-fix" target="_blank">🔗 View Repository</a></p>
+<p><a href="https://github.com/josh-keilder/spotify-local-files-audio-fix" target="_blank">🔗 View Repository</a></p>
 ---
 
 <h3 align="left">Languages and Tools</h3>
