@@ -3,7 +3,7 @@ I'm a Computer Programming major passionate about software development and build
 
 ## Projects
 ### 🗂️ [Task Tracker WebApp](https://github.com/josh-keilder/task-tracker)
-Developed a Python and React task management web app with CRUD functionality.
+A Python and React task management web app with CRUD functionality.
 
 ### 🎵 [Song Downloader](https://github.com/josh-keilder/song-downloader)
 A simple Python GUI application to download audio from YouTube videos, convert it to MP3, and optionally upload it to a Dropbox folder.
