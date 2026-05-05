@@ -17,5 +17,5 @@ A simple Python GUI application to download audio from YouTube videos, convert i
 ### 🎮 [Dungeon Sprint](https://github.com/josh-keilder/dungeon-sprint) (Work in Progress)
 Making a 2D dungeon crawler using PyGame.
 
-### [Alacrity - My Own Programming Language](https://github.com/AlacrityProject/alacrity)
-Making my own programming language called Alacrity, using C
+### [Alacrity](https://github.com/AlacrityProject/alacrity)
+Making my own programming language called Alacrity, using C.
