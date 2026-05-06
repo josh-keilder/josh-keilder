@@ -14,7 +14,8 @@ A Python and React task management web app with CRUD functionality.
 ### 🎵 [Song Downloader](https://github.com/josh-keilder/song-downloader)
 A simple Python GUI application to download audio from YouTube videos, convert it to MP3, and optionally upload it to a Dropbox folder.
 
-### 🎮 [Dungeon Sprint](https://github.com/josh-keilder/dungeon-sprint) (Work in Progress)
+## Work In Progress Projects
+### 🎮 [Dungeon Sprint](https://github.com/josh-keilder/dungeon-sprint) 
 Making a 2D dungeon crawler using PyGame.
 
 ### [Alacrity](https://github.com/AlacrityProject/alacrity)
