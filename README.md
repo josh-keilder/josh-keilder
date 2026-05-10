@@ -1,6 +1,14 @@
 # Hello 👋, my name is Josh!
 I'm a Computer Programming major passionate about software development and building interactive applications.
 
+---
+
+## Interests
+* Game Development
+* Compilers
+
+---
+
 ## Projects
 ### 📚 [SkillSwap](https://github.com/josh-keilder/SkillSwap)
 A peer-to-peer skill-sharing web app built with Django, featuring automated session scheduling and self-paced course enrollment.
