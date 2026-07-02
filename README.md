@@ -19,7 +19,7 @@ A simple Python script to fix the audio sample rate for local files song playbac
 ### 🗂️ [Task Tracker WebApp](https://github.com/josh-keilder/task-tracker)
 A Python and React task management web app with CRUD functionality.
 
-### 🎵 [Song Downloader](https://github.com/josh-keilder/song-downloader)
+### 🎵 [Song Downloader](https://github.com/josh-keilder/song-downloader) (NEEDS UPDATING)
 A simple Python GUI application to download audio from YouTube videos, convert it to MP3, and optionally upload it to a Dropbox folder.
 
 ## Work In Progress Projects
