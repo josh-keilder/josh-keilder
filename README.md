@@ -28,3 +28,6 @@ Making a 2D dungeon crawler using PyGame.
 
 ### [Alloy](https://github.com/AlloyForge/alloy)
 Making my own programming language called Alloy, using C.
+
+## Other things
+### [My NeoVim Config](https://github.com/josh-keilder/neo-vim)
