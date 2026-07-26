@@ -26,5 +26,5 @@ A simple Python GUI application to download audio from YouTube videos, convert i
 ### 🎮 [Dungeon Sprint](https://github.com/josh-keilder/dungeon-sprint) 
 Making a 2D dungeon crawler using PyGame.
 
-### [Alloy](https://github.com/AlloyForget/alloy)
+### [Alloy](https://github.com/AlloyForge/alloy)
 Making my own programming language called Alloy, using C.
