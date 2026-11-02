@@ -21,7 +21,7 @@ A handwritten interpreted language built from the ground up: lexer, recursive-de
 Supports typed variables, operator precedence, int→float promotion, `if / elif / else`, `while` loops, and typed functions with return values.
 `C` `Interpreters` `Language Design`
 
-### 🎵 [music-sync](https://github.com/josh-keilder/music-sync) — Android music library sync
+### 🎵 [Music Sync](https://github.com/josh-keilder/music-sync) — Android music library sync
 A native Android app (Kotlin + Jetpack Compose) that compares songs on my phone with a Google Drive folder and downloads or uploads whatever is missing, with progress tracking.
 Built with Google Sign-In, the Drive REST API via Retrofit, MVVM with ViewModels, and a feature-based package structure.
 `Kotlin` `Jetpack Compose` `Google Drive API` `Retrofit`
